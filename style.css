@@ -1,0 +1,86 @@
+div#bandeau {
+	
+	background-color:#00CCFF;
+	}
+div#contenu {
+	
+	background-color:#3F283A;
+	float:left;
+	color: blue;
+	}
+div#piedpage {
+	width:600px;
+	height:50px;
+	background-color:#33FF99;
+	clear:both;
+
+	}
+	div#menu {
+	float:left;
+	
+	}
+	div#m1 {
+	width:100px;
+	height:50px;
+	background-color:red;
+	border-width: 2px solid;
+	border-color: black;
+	
+	}
+		div#m2 {
+	width:100px;
+	height:50px;
+	background-color:blue;
+	border-width: 2px solid;
+	border-color: black;
+	
+	}
+		div#m3 {
+	width:100px;
+	height:50px;
+	background-color:red;
+	border-width: 2px solid;
+	border-color: black;
+	
+	}
+		div#m4 {
+	width:100px;
+	height:50px;
+	background-color:black;
+	border-width: 2px solid;
+	border-color: black;
+	
+	}
+		div#m5 {
+	width:100px;
+	height:50px;
+	background-color:red;
+	border-width: 2px solid;
+	border-color: black;
+	
+	}
+		div#m6 {
+	width:100px;
+	height:50px;
+	background-color:blue;
+	border-width: 2px solid;
+	border-color: black;
+	
+	}
+		div#m7 {
+	width:100px;
+	height:50px;
+	background-color:red;
+	border-width: 2px solid;
+	border-color: black;
+	
+	}
+		div#m8 {
+	width:100px;
+	height:50px;
+	background-color:green;
+	border-width: 4px solid;
+	border-color: black;
+	
+	}
+	
